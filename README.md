@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+
+![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) <br/>
 ![R](https://img.shields.io/badge/-R-blue?style=flat-square&logo=R)
 ![RStudio](https://img.shields.io/badge/-RStudio-gray?style=flat-square&logo=RStudio)
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python)
@@ -53,14 +57,7 @@ Here are some ideas to get you started:
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=Scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) <br/>
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=Swagger&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=JSONWebTokens)
-![Git](https://img.shields.io/badge/-Git-%23F05033?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 
 <br/>
 <br/>
