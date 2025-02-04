@@ -3,7 +3,7 @@
 - 🙏 I believe in the value of technology to create a better world
 - 🌱 I’m currently learning Computational Social Science, Data Science, (Data Engineering, Backend)
 - 💬 If you have any questions, ask anything
-- 📫 How to reach me: solver.paul@gmail.com
+- 📫 How to reach me: sc.park@kaist.ac.kr
 
 <br/>
 
